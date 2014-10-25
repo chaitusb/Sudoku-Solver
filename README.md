@@ -36,7 +36,7 @@ Question 1 :
 Implement the basic backtracking algorithm. Generate 10 random Sudokus with puzzle.txt and evaluate
 the solver. Report the average and variance of the performance.
 
-Question 5 :
+Question 2 :
 ============
 Add minimum remaining values (MRV) heuristic + forward checking + arc consistency to the algorithm.
 To make arc consistency simpler, you can trigger constraint propagation only when a variable with just one valid value left is
